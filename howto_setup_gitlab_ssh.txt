@@ -1,0 +1,4 @@
+1.there is an instruction that could be found through dukeoit>gitlab>ssh
+2.first generate a sshkey, then add it to gitlab, ssh connect the repository
+3.after establishing connection, clone the project to local repository
+4.you are all set
